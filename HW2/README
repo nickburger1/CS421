@@ -1,0 +1,5 @@
+    // Driver Found at
+    // https://github.com/xerial/sqlite-jdbc/releases
+
+    // Compile using "javac Main.java"
+    // Execute using "java -classpath ".;sqlite-jdbc-3.39.3.0.jar" Main"
